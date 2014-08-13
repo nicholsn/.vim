@@ -16,3 +16,6 @@
 [submodule "bundle/vim-colors-solorized"]
 	path = bundle/vim-colors-solorized
 	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/vim-rdf"]
+	path = bundle/vim-rdf
+	url = https://github.com/niklasl/vim-rdf.git

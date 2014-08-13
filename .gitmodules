@@ -19,3 +19,6 @@
 [submodule "bundle/vim-rdf"]
 	path = bundle/vim-rdf
 	url = https://github.com/niklasl/vim-rdf.git
+[submodule "bundle/vim-sensible"]
+	path = bundle/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git

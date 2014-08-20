@@ -6,3 +6,9 @@ git submodule update
 
 # Add symlink to vim config
 ln -s ~/.vim/.vimrc ~/.vimrc
+
+# Add symlink to tmux config
+ln -s ~/.vim/.tmux.conf ~/.tmux.conf
+
+# Add symlink to tmuxinator projects
+ln -s ~/.vim/.tmuxinator ~/.tmuxinator

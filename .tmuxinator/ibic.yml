@@ -1,0 +1,10 @@
+# ~/.tmuxinator/ibic.yml
+
+name: ibic
+root: ~/
+
+windows:
+  - editor:
+    - ssh bnniii@glia.ibic.washington.edu
+    - cd /var/local/scratch/bnniii/nidash
+    - vim

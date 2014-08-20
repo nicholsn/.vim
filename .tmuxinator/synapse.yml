@@ -1,0 +1,7 @@
+# ~/.tmuxinator/synapse.yml
+
+name: synapse
+root: ~/
+
+windows:
+  - server: ssh nicholsn@synapse.sri.com 
